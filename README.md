@@ -1,7 +1,3 @@
-Here’s a `README.md` file tailored for your Tic-Tac-Toe project that uses the Min-Max and Alpha-Beta algorithms:
-
----
-
 # Tic-Tac-Toe Using Min-Max and Alpha-Beta Pruning
 
 ## Overview
